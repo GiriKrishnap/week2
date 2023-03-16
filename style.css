@@ -1,0 +1,144 @@
+#banner,header{
+    background-image: linear-gradient(to right,#4f16a3,#a366ff);
+    padding-top: 10px;
+}
+.nav-link:hover{
+    color: rgb(224, 221, 0) !important;
+
+}
+.nav-link{
+    color: white !important;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 3px;
+}
+.popin{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-text1{
+    font-size: 45px !important;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 2px;
+}
+.banner-text2{
+    color: white;
+    font-size:15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+
+}
+.row{
+    padding-top: 90px;
+}
+.play-btn{
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
+.play-text{
+    float: left;
+    margin-top:25px;
+}
+.banner-photo{
+    height: 100%;
+    width: 100%;
+}
+.wave1{
+    width: 100%;
+}
+.service-photo{
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.serv{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+}
+#services h4{
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+#services{
+    margin-bottom: 70px;
+}
+.service-photo:hover{
+    transform: translateY(10px);
+}
+.aa{
+    font-weight: 1000;
+    margin-top: 100px;
+}
+#about-us{
+   padding-top: 30px;
+   background-color: rgb(245, 240, 240);
+}
+.about-title{
+    font-size: 24px;
+    margin-left: 30px;
+}
+.ul li{
+    margin-top: 20px;
+}
+.testi{
+    margin-top: 30px;
+}
+.testi:hover{
+    transform: translateY(5px);
+}
+.people{
+    width: 150px;
+    border-radius: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.tes{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    padding: 40px;
+    border-radius: 50px; 
+}
+.name{
+    font-weight: 700;
+}
+.lasttext{
+    margin-top: 30px;
+}
+.icon{
+    margin-top: 15px;
+}
+.icon:hover{
+    transform: translateY(5px);
+}
+.submit-btn{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: 600;
+    border: none;
+    background: #a366ff;
+    color: white;
+}
+footer{
+    background-image: linear-gradient(to right,#4f16a3,#a366ff);
+    height: 300px;
+    margin-top: 30px;   
+}
+.footerwave{
+    width: 100%;
+}
+.iconfooter{
+    float: right;
+    margin: 0px 5px;
+}
+.iconfooter:hover{
+    transform: translateY(5px);
+}
